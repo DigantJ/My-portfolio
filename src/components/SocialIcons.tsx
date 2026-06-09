@@ -1,6 +1,6 @@
 import {
   FaGithub,
-  FaLinkedinIn,
+  FaLinkedinIn
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
@@ -78,7 +78,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/DigantJoshi.pdf"
+        href="/Digant_Joshi_Resume.pdf"
         target="_blank"
         rel="noreferrer"
       >

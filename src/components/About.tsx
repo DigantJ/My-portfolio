@@ -7,13 +7,11 @@ const About = () => {
         <h3 className="title">About Me</h3>
         <p className="para">
           I'm a final-year B.Tech Computer Science student at SRMIST Ramapuram,
-          Chennai (CGPA: 8.85/10), passionate about turning raw data into real
+          Chennai (CGPA: 9.30/10), passionate about turning raw data into real
           decisions. I build end-to-end data pipelines, AI-integrated interfaces,
           and visualization dashboards using Python, SQL, Streamlit, Tableau, and
           Power BI. Certified by Oracle, Microsoft, and Deloitte in Generative AI
-          and Data Analytics. I'm currently interning in the AI talent-tech space
-          and actively seeking full-time roles in software development and data
-          analytics where I can ship things that actually matter.
+          and Data Analytics. Strong problem-solving abilities combined with a passion for leveraging technology and analytics to drive business impact.
         </p>
       </div>
     </div>
